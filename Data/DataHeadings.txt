@@ -1,0 +1,13 @@
+Speed controller data file headings
+
+Col 1: Elapsed time in ms.
+
+Col 2: Shaft encoder counts.
+
+Col 3: Shaft speed in Counts/s
+
+Col 4: Set shaft speed in Counts/s
+
+Col 5: Speed Error
+
+Col 6: PWM output
